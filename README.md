@@ -1,4 +1,4 @@
-# DevOps Lessons Repo
+# LADD: Linux and DevOps Dump
 
 ## Quick Bio
 I'm a freshly graduated Computer Engineer aspiring to become a DevOps Engineer. Given that my school program never went anywhere near anything remotely related to DevOps tools, I had to find somewhere I could begin; a tangible thread to grab and follow. A friend told me about Linux Academy and lo and behold, they have a _Junior DevOps Engineer_ path. I bought a membership without thinking twice (well I checked them out first and determined it's worth it but you know) because I figured investing in that would give me a visible and concrete direction to follow in terms of learning. I currently work for a startup doing DevOps tasks.
